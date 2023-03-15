@@ -128,12 +128,24 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/YKpMsef.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GVWNKtw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <p>
+<img src="https://i.imgur.com/IaE2Aco.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <p>
+<img src="https://i.imgur.com/OB7civp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <p>
+<img src="https://i.imgur.com/dM1hWAl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </h2>STEP 7: CONFIGURE HELP TOPICS</h2>
 
-  - Admin Panel --> Manage --> Help Topics
+  - Admin Panel --> Manage --> Help Topics (then create New Help Topics for the following)
   - Business Critical Outage
   - Personal Computer Issues
   - Equipment Request
