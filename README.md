@@ -73,3 +73,62 @@ This tutorial outlines the post-install configuration of the open-source help de
   - Create a Level II Support Team
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/Fg9rF3O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <p>
+<img src="https://i.imgur.com/Fg9rF3O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</h2>STEP 4: ALLOW ANYONE TO CREATE TICKETS</h2>
+
+  - Admin Panel --> Agents --> Add New
+  - Jane Do - create an account, set a password, make Jane a Supreme Admin, add her to our Level II Support Team. Then Create
+  - John Do - create an account, set a passwor, make John a Support View Only. Then Create
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/wDtyF5f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <p>
+<img src="https://i.imgur.com/JJipr6M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</h2>STEP 5: CONFIGURE FOR USERS</h2>
+
+  - Agent Panel --> Users --> Add New
+  - add new User Karen
+  - add new User Ken
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/YKpMsef.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</h2>STEP 6: CONFIGURE SLA</h2>
+
+  - Admin Panel --> Manage --> SLA
+  - Sev-A (1 hour, 24/7)
+  - Sev-B (4 hours, 24/7)
+  - Sev-C (8 hours, business hours)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/YKpMsef.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</h2>STEP 7: CONFIGURE HELP TOPICS</h2>
+
+  - Admin Panel --> Manage --> Help Topics
+  - Business Critical Outage
+  - Personal Computer Issues
+  - Equipment Request
+  - Password Reset
+</p>
+<br />
