@@ -107,12 +107,20 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/YKpMsef.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8PlETvH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <p>
+<img src="https://i.imgur.com/CscCtO6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <p>
+<img src="https://i.imgur.com/pXokl0s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </h2>STEP 6: CONFIGURE SLA</h2>
 
-  - Admin Panel --> Manage --> SLA
+  - Admin Panel --> Manage --> SLA (then add 3 new SLAs plans)
   - Sev-A (1 hour, 24/7)
   - Sev-B (4 hours, 24/7)
   - Sev-C (8 hours, business hours)
